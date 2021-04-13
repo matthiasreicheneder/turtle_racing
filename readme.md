@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
+
 Created on Tue Apr 13 14:44:21 2021
 
 @author: matth
-"""
 
-# Hi
 
-#hello
+# Hi, this is a fun game
+
+#Let's play
